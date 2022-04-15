@@ -24,6 +24,7 @@ FOUNDATION_EXPORT const unsigned char PLVLiveScenesSDKVersionString[];
 #import <PLVLiveScenesSDK/PLVChannelInfoModel.h>
 #import <PLVLiveScenesSDK/PLVLiveVideoChannelMenuInfo.h>
 #import <PLVLiveScenesSDK/PLVPlaybackListModel.h>
+#import <PLVLiveScenesSDK/PLVLivePlaybackSectionModel.h>
 #import <PLVLiveScenesSDK/PLVCommodityModel.h>
 #import <PLVLiveScenesSDK/PLVLiveVClassAPI.h>
 #import <PLVLiveScenesSDK/PLVLiveVideoAPI.h>

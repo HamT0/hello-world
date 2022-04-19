@@ -1,6 +1,0 @@
-framework module PLVLiveScenesSDK {
-  umbrella header "PLVLiveScenesSDK.h"
-
-  export *
-  module * { export * }
-}

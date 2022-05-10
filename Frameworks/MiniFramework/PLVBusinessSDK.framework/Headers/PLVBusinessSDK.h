@@ -18,10 +18,6 @@ FOUNDATION_EXPORT const unsigned char PLVBusinessSDKVersionString[];
 #import <PLVBusinessSDK/PLVBSocketClient.h>
 
 #import <PLVBusinessSDK/PLVBLinkMicManager.h>
-#import <PLVBusinessSDK/PLVBLinkMicAgoraManager.h>
-#import <PLVBusinessSDK/PLVBLinkMicUCloudManager.h>
-#import <PLVBusinessSDK/PLVBLinkMicZegoManager.h>
-#import <PLVBusinessSDK/PLVBLinkMicTRTCManager.h>
 #import <PLVBusinessSDK/PLVBRTCDefine.h>
 #import <PLVBusinessSDK/PLVBRTCConstants.h>
 #import <PLVBusinessSDK/PLVBRTCVideoViewCanvasModel.h>

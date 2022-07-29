@@ -1,0 +1,6 @@
+framework module PLVFoundationSDK {
+  umbrella header "PLVFoundationSDK.h"
+
+  export *
+  module * { export * }
+}
